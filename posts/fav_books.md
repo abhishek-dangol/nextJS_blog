@@ -3,11 +3,14 @@ title: "My favorite books for 2020"
 date: "2021-01-19"
 ---
 
-Here is the list of my top 5 books for 2020:
+Here is the list of my top 5 books that I read in 2020:
 
-**Lifespan: Why We Age and Why We Don't Have To by David Sinclair**
+_Note: These are in no particular order_
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+**1. Lifespan: Why We Age and Why We Don't Have To by David Sinclair**
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+![lifespan_image](/images/lifespan_book2.jpg)
+
+**2. The Two Year Mountain by Phil Deutschle**
+
+![mountain_image](/images/mountain2.jpg)
